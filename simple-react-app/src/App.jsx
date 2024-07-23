@@ -1,8 +1,12 @@
-
+import Navbar from "./components/Navbar";
+import Main from "./components/Main";
 
 function App() {
   return (
-    <h1>Hello, World!</h1>
+    <div className="container">
+      <Navbar />
+      <Main />
+    </div>
   );
 }
 
