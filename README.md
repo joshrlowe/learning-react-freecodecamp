@@ -28,6 +28,14 @@ This repository is dedicated to the projects I'm building while learning React f
      - Custom styling and layout using flexbox and CSS principles
    - **Status**: Complete
 
+3. **Project 3: Airbnb Experiences Clone** - [Click Here](./airbnb-experiences-clone/)
+
+   - **Description**: A React application that replicates the Airbnb Experiences homepage, focusing on component-based architecture and prop management. This project includes card, hero, and navbar components with data imported from static data.js files.
+   - **Key Features**:
+     - Component-based architecture
+     - Prop management for dynamic content
+   - **Status**: Complete
+
 ## Technologies
 
 - React
