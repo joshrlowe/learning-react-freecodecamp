@@ -36,6 +36,15 @@ This repository is dedicated to the projects I'm building while learning React f
      - Prop management for dynamic content
    - **Status**: Complete
 
+4. **Project 4: My Travel Journal** - [Click Here](./my-travel-journal/)
+
+   - **Description**: A React application designed to document travel experiences, utilizing a component-based architecture and prop management for dynamic content. This project includes card components for each travel destination, displaying images, dates, and descriptions, with data imported from static data.js files.
+   - **Key Features**:
+     - Component-based architecture
+     - Prop management for dynamic content
+     - CSS styling for a visually appealing layout
+   - **Status**: Complete
+
 ## Technologies
 
 - React
