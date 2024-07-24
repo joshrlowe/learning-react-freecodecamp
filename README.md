@@ -14,9 +14,19 @@ This repository is dedicated to the projects I'm building while learning React f
 
 ## Projects
 
-1. **Project 1: Simple React App**
-   - Description: A basic React application to understand the fundamentals of components, props, and state.
-   - Status: Pending
+1. **Project 1: Simple React App** - [Click Here](./simple-react-app/)
+
+   - **Description**: A fundamental React application designed to understand and implement the basics of React components. This project includes a main component and a navbar component.
+   - **Status**: Complete
+
+2. **Project 2: Digital Business Card** - [Click Here](./digital-business-card/)
+
+   - **Description**: A digital business card application built with React to showcase personal information, contact details, and social media links. This project includes components for a profile picture, name, role, portfolio website, email and LinkedIn links, an about section, an interest section, and social media icon links.
+   - **Key Features**:
+     - Personal information display
+     - Contact and social media links
+     - Custom styling and layout using flexbox and CSS principles
+   - **Status**: Complete
 
 ## Technologies
 

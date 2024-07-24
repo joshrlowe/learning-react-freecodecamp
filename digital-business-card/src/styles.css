@@ -1,0 +1,99 @@
+body {
+  background-color: rgb(33, 33, 33);
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  max-width: 400px;
+  background-color: rgb(29, 27, 27);
+  border-radius: 10px;
+  color: white;
+  margin: 20px auto;
+  font-family: "Roboto Slab", serif;
+}
+
+.headshot {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.section-container {
+  padding: 5px 30px;
+}
+
+.section-container > h2 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 0px;
+}
+
+.section-container > p {
+  margin-top: 5px;
+  font-weight: 100;
+}
+
+.socials {
+  display: flex;
+  justify-content: space-around;
+  gap: 20px;
+  padding: 10px 0;
+}
+
+.socials img {
+  width: 50px;
+}
+
+.contact-info {
+  display: flex;
+  padding: 5px 30px;
+  gap: 10px;
+}
+
+.contact-info .btn {
+  display: flex;
+  align-items: center;
+  background-color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+
+.contact-info img {
+  width: 20px;
+  margin-right: 10px;
+}
+
+.contact-info a {
+  color: black;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.contact-info a:hover {
+  color: orange;
+}
+
+.profile-name {
+  font-size: 2em;
+  font-weight: 700;
+  margin: 10px 0;
+}
+
+.profile-position {
+  font-size: 1em;
+  font-weight: 200;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+.profile-portfolio {
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: orange;
+}
+
+.portfolio:hover {
+  text-decoration: underline;
+}
