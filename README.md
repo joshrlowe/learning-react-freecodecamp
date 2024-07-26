@@ -55,6 +55,17 @@ This repository is dedicated to the projects I'm building while learning React f
      - Custom styling for a user-friendly interface
    - **Status**: Complete
 
+6. **Project 6: Meme Generator** - [Click Here](./meme-generator/)
+
+   - **Description**: A custom meme generator application built with React, allowing users to fetch random memes using the Imgflip API and customize the top and bottom text. This project includes features for dynamically updating the meme image and text through user inputs.
+   - **Key Features**:
+     - Integration with Imgflip API for random memes
+     - Customizable top and bottom text for memes
+     - State management for dynamic content
+     - useEffect for API calls
+     - Responsive design and custom styling
+   - **Status**: Complete
+
 ## Technologies
 
 - React
