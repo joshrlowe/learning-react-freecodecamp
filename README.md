@@ -45,6 +45,16 @@ This repository is dedicated to the projects I'm building while learning React f
      - CSS styling for a visually appealing layout
    - **Status**: Complete
 
+5. **Project 5: Sign-Up Form** - [Click Here](./sign-up-form/)
+
+   - **Description**: A React application featuring a sign-up form that captures user data through controlled components and state management. This project includes form fields for email, password, confirm password, and a newsletter subscription checkbox.
+   - **Key Features**:
+     - Controlled components for form input
+     - State management for form data
+     - Input validation and user feedback
+     - Custom styling for a user-friendly interface
+   - **Status**: Complete
+
 ## Technologies
 
 - React
